@@ -9,7 +9,7 @@ using WorkoutTracker.Core.Entities;
 
 namespace WorkoutTracker.Infrastructure.Data
 {
-    internal class WorkoutTrackerContext: DbContext
+    public class WorkoutTrackerContext: DbContext
     {
         public DbSet<Routine> Routines { get; set; }
         public DbSet<Exercise> Exercises { get; set; }
