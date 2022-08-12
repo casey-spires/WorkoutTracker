@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using WorkoutTracker.Core
+using WorkoutTracker.Core;
 using WorkoutTracker.Core.Entities;
 
 namespace WorkoutTracker.Infrastructure.Data
