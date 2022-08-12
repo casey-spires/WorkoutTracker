@@ -453,3 +453,6 @@ $RECYCLE.BIN/
 !.vscode/launch.json
 !.vscode/extensions.json
 src/WorkoutTracker.API/appsettings.Development.json
+.vscode/tasks.json
+src/.vscode/tasks.json
+src/.vscode/launch.json
